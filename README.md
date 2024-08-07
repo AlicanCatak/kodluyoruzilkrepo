@@ -2,10 +2,6 @@
 
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
-# kodluyoruzilkrepo
-
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-
 ```bash
 git clone https://github.com/AlicanCatak/kodluyoruzilkrepo.git
 ```
