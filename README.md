@@ -7,7 +7,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 ```bash
-git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git
+git clone https://github.com/AlicanCatak/kodluyoruzilkrepo.git
 ```
 
 ## Usage
